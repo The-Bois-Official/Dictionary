@@ -22,3 +22,7 @@ ul {
   li a:hover {
     background-color: #3e444a;
   }
+
+  body {
+    background-color: #3b4f63;
+  }
