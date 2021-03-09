@@ -23,8 +23,6 @@ li a:hover {
     background-color: #2f3136;
 }
 
-
-nav:{
-    float: left;
-    clear: left;
+h1 {
+    background: white;
 }
