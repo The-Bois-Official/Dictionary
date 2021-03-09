@@ -6,26 +6,26 @@ ul {
     background-color: #20252a;
   }
   
-  li {
+li {
     float: left;
   }
   
-  li a {
+li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+}
   
 
-  li a:hover {
+li a:hover {
     background-color: #3e444a;
-  }
+}
 
   body {
     background: #7B4F78;
     background: -webkit-linear-gradient(top left, #7B4F78, #6655EC);
     background: -moz-linear-gradient(top left, #7B4F78, #6655EC);
     background: linear-gradient(to bottom right, #7B4F78, #6655EC);;
-  }
+}
