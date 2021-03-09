@@ -24,5 +24,8 @@ ul {
   }
 
   body {
-    background-color: #3b4f63;
+    background: #7B4F78;
+    background: -webkit-linear-gradient(top left, #7B4F78, #6655EC);
+    background: -moz-linear-gradient(top left, #7B4F78, #6655EC);
+    background: linear-gradient(to bottom right, #7B4F78, #6655EC);;
   }
